@@ -1,4 +1,4 @@
-package ca.jrvs.challenge;
+package ca.jrvs.challenge.frequency_5;
 
 import java.util.Arrays;
 

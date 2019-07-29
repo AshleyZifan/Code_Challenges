@@ -1,6 +1,4 @@
-package ca.jrvs.challenge.linkedList;
-
-import ca.jrvs.challenge.linkedList.Node;
+package ca.jrvs.challenge.frequency_5.linkedList;
 
 public class BST {
 

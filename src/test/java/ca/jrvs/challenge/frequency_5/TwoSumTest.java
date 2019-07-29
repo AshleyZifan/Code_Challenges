@@ -1,5 +1,6 @@
-package ca.jrvs.challenge;
+package ca.jrvs.challenge.frequency_5;
 
+import ca.jrvs.challenge.frequency_5.TwoSum;
 import org.junit.Test;
 
 import static org.junit.Assert.*;

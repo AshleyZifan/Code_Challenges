@@ -1,4 +1,4 @@
-package ca.jrvs.challenge.linkedList;
+package ca.jrvs.challenge.frequency_5.linkedList;
 
 public class Node {
 
