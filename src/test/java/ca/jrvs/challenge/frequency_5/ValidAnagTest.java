@@ -1,4 +1,4 @@
-package ca.jrvs.challenge.frequency_4;
+package ca.jrvs.challenge.frequency_5;
 
 import org.junit.Test;
 
