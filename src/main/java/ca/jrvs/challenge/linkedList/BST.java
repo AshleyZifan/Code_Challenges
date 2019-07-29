@@ -1,4 +1,6 @@
-package ca.jrvs.challenge;
+package ca.jrvs.challenge.linkedList;
+
+import ca.jrvs.challenge.linkedList.Node;
 
 public class BST {
 

@@ -1,7 +1,8 @@
 package ca.jrvs.challenge;
 
-class ValidPalin {
+public class ValidPalin {
 
+    //Frequency:5
     //Given a string, determine if it is a palindrome, considering only alphanumeric characters and ignoring cases.
     public boolean isPalindrome(String s) {
         if (s == null || s.length() == 0) return true;

@@ -4,6 +4,7 @@ import java.util.Arrays;
 
 public class MissNum {
 
+    //Frequency:5
     //Given an array containing n distinct numbers taken from 0, 1, 2, ..., n, find the one that is missing from the array.
     public int missingNumber(int[] nums) {
         Arrays.sort(nums);

@@ -1,4 +1,4 @@
-package ca.jrvs.challenge;
+package ca.jrvs.challenge.linkedList;
 
 public class Linked_List {
     Node head; // head of list
@@ -14,7 +14,7 @@ public class Linked_List {
         }
     }
 
-    /* Returns count of nodes in linked list */
+    /* Returns count of nodes in linked list;Find the length of a singly linked list*/
     public int getCount()
     {
         Node temp = head;
